@@ -7,4 +7,4 @@ git add .;
 git commit -m "Automated moving good to production and backing up bad";
 git push
 
-sh ./deploy.sh
+sh ./scripts/deploy.sh
